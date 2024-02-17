@@ -1,0 +1,12 @@
+{
+  "name": "Eder",
+  "age": 25,
+  "balance": -100.5,
+  "isDeveloper": true,
+  "studentId": null,
+  "address": {
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  "languages": ["Rust", "Go", "TypeScript", "Python"]
+}
